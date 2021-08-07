@@ -82,7 +82,7 @@ while(j<arr.length);
 //console.log(myArr);
 //const newLen
 //console.log()
-
+//my script
 //Let elem = document.getElementById('click') 
 //{
 //consle.log(elem);
